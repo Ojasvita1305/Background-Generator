@@ -1,0 +1,11 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "This is a basic project in which we can change background to suit our needs.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
